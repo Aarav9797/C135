@@ -1,0 +1,33 @@
+body{
+    background-image: url("background.jpg");
+background-size: cover;
+font-family: 'ZCOOL KuaiLe', cursive;
+}
+#heading{
+     font-size: 25px;
+     width: 100%;
+     margin-top: 0%;
+
+}
+#heading2{
+    font-size: 20px;
+}
+#heading3{
+    font-size: 20px;
+}
+#footer{
+    background-color: grey;
+    position:fixed;
+    bottom:0;
+    color:white;
+    font-size: 20px;
+width:100%;
+}
+canvas{
+    background-color: gray;
+    border-radius: 15px;
+    border-color: black;
+    border-width: 10px;
+    border-style: double;
+    box-shadow: white 5px 5px 18px;
+}
